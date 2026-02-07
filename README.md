@@ -1,13 +1,13 @@
-# Blindfold
+# BlindFold
 
-**Blindfold** is a lightweight Python utility for **blinding and anonymizing image datasets** prior to analysis.  
+**BlindFold** is a lightweight Python utility for **blinding and anonymizing image datasets** prior to analysis.  
 It enables unbiased, reproducible scoring of microscopy and image-based assays by removing condition labels while preserving a secure unblinding key.
 
 > *See the data, not the labels.*
 
-## Why Blindfold?
+## Why BlindFold?
 
-Unblinded image analysis introduces unconscious bias. Blindfold provides a simple, transparent way to enforce blinding without changing downstream workflows.
+Unblinded image analysis introduces unconscious bias. BlindFold provides a simple, transparent way to enforce blinding without changing downstream workflows.
 
 Blindfold helps you:
 
