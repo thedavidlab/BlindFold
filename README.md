@@ -5,8 +5,6 @@ It enables unbiased, reproducible scoring of microscopy and image-based assays b
 
 > *See the data, not the labels.*
 
----
-
 ## Why Blindfold?
 
 Unblinded image analysis introduces unconscious bias. Blindfold provides a simple, transparent way to enforce blinding without changing downstream workflows.
@@ -20,8 +18,6 @@ Blindfold helps you:
 
 Blindfold is designed for **scientific rigor**, making it appropriate for **methods sections, grants, and regulated research workflows**.
 
----
-
 ## Features
 
 - 🔒 **Image blinding** via randomized filenames  
@@ -31,8 +27,6 @@ Blindfold is designed for **scientific rigor**, making it appropriate for **meth
 - 🔀 **Optional randomized viewing order** for scoring  
 - 📁 **Flat or recursive directory support**  
 - ⚡ **Single-file Python script** with minimal dependencies  
-
----
 
 ## Installation
 
