@@ -33,5 +33,5 @@ Blindfold is designed for **scientific rigor**, making it appropriate for **meth
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/blindfold.git
+git clone https://github.com/thedavidlab/blindfold.git
 cd blindfold
